@@ -1,0 +1,23 @@
+{
+"products": 
+[{"id":1,"name":"African black crake","category":"Pink"},
+{"id":2,"name":"Lemur, grey mouse","category":"Indigo"},
+{"id":3,"name":"Clark's nutcracker","category":"Aquamarine"},
+{"id":4,"name":"Swan, trumpeter","category":"Pink"},
+{"id":5,"name":"Andean goose","category":"Maroon"},
+{"id":6,"name":"Legaan, water","category":"Crimson"},
+{"id":7,"name":"Rhea, common","category":"Aquamarine"},
+{"id":8,"name":"Boat-billed heron","category":"Maroon"},
+{"id":9,"name":"Brocket, brown","category":"Pink"},
+{"id":10,"name":"Falcon, peregrine","category":"Crimson"},
+{"id":11,"name":"European stork","category":"Khaki"},
+{"id":12,"name":"Kangaroo, western grey","category":"Pink"},
+{"id":13,"name":"Waxbill, violet-eared","category":"Indigo"},
+{"id":14,"name":"Arctic fox","category":"Orange"},
+{"id":15,"name":"Savanna fox","category":"Orange"},
+{"id":16,"name":"Bulbul, black-fronted","category":"Fuscia"},
+{"id":17,"name":"European spoonbill","category":"Blue"},
+{"id":18,"name":"Eastern diamondback rattlesnake","category":"Khaki"},
+{"id":19,"name":"Goose, spur-winged","category":"Indigo"},
+{"id":20,"name":"Black bear","category":"Indigo"}]
+}
